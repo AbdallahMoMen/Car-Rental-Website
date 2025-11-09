@@ -301,6 +301,7 @@ header .sign a:first-of-type {
   gap: 16px;
   position: relative;
   z-index: 1;
+  padding: 8px;
 }
 
 .landing-info {
